@@ -1,2 +1,7 @@
-# go-api-authentication
-API with JWT authentication written in GoLang 
+# golang api with authentication
+
+
+### Technology:
+- dep
+- golang
+- postgresql
